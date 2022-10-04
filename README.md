@@ -1,5 +1,3 @@
-# yahie.github.io
-this is the screamer!!!!
 
-
-boo!
+this is the screamer!
+get ready for flasing lights soon.
