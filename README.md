@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:grey;">
+<body style="background-color:black;">
 
-troll
+<div class="scare">
+<video id="video" class="video" src="https://i.imgur.com/fGE573U.gif" loop=""></video>
+</div>
+<IMG SRC="https://i.imgur.com/fGE573U.gif"
+     width="1920"
+     height=1080>
 
-<IMG SRC="https://i.imgur.com/fGE573U.gif">
-
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trollface_non-free.png/220px-Trollface_non-free.png" 
-     width="20"
-     height="20" />
