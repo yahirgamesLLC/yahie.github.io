@@ -1,4 +1,4 @@
 
 this is the screamer!
 
-get ready for flasing lights soon.
+get ready for flashing lights soon.
